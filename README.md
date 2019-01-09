@@ -3,3 +3,5 @@ my first repository
 
 
 begin edit and commit
+
+second edit
